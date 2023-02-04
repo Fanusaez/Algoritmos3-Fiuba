@@ -1,4 +1,4 @@
-# Algoritmos3-Fiuba
+# Algoritmos y Programacion 3-Fiuba
 
 Repositorio de trabajos prácticos de la materia Algoritmos y Programacion III (FIUBA), correspondiente a la cursada 2022.
 
