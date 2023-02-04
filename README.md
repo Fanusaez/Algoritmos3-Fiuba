@@ -1,6 +1,9 @@
 # Algoritmos3-Fiuba
 
+Repositorio de trabajos prácticos de la materia Algoritmos y Programacion III (FIUBA), correspondiente a la cursada 2022.
+
 ## Programa Analítico
+
 ### Primera parte
 
  - Programación orientada a objetos y prácticas metodológicas
@@ -20,3 +23,8 @@
  - Buenas prácticas de XP. Integración y delivery continuos (noción).
  - Temas generales de diseño. Principios de diseño. Algunos patrones de diseño.
  - Construcción de aplicaciones con interfaz de usuario gráfica. MVC como patrón arquitectónico. Experiencia de usuario y usabilidad. Java FX.
+
+## Trabajos Practicos
+- [TP1](https://github.com/Fanusaez/Algoritmos3-Fiuba/tree/master/Tp1) 
+- [TP2 (1er Cuatri)](https://github.com/Fanusaez/TP2_algo3_algothief/tree/f217e298f4800c99080b53035948b8612e3ea99e)
+- [TP2 (2do Cuatri)](https://github.com/Fanusaez/TP2-Algo3-GPS/tree/ea8907f76dcc635302e5789e1cd779df82751607)
